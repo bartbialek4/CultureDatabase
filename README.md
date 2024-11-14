@@ -1,7 +1,8 @@
 # CultureDatabase
 CultureDatabase is a GUI application that allows users to store and manage information about their favorite books, songs, movies, and artists.
 
-**Description** is a desktop application built with Python, designed to help users organize and manage their favorite media in one place. This application features an intuitive graphical user interface created with the `tkinter` library and uses `sqlite3` as its database backend to ensure reliable data storage.
+# Description
+**CultureDatabase** is a desktop application built with Python, designed to help users organize and manage their favorite media in one place. This application features an intuitive graphical user interface created with the `tkinter` library and uses `sqlite3` as its database backend to ensure reliable data storage.
 
 ## Key Features
 
